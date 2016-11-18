@@ -238,12 +238,12 @@
                 </div>
                 <div class="col-md-6 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
                     <!-- OwnerRez Three Month Calendar widget for The Beach Club A1506 -->
-                    <div class="ownerrez-widget" data-widgetId="ad60278d908e4fff8660e646d301d73e" data-propertyId="03228a3536ec48ca8df7ab6044437e28"></div>
+                    <div class="ownerrez-widget" data-widgetId="db3e0bfc41144adfbe3840c67e563c02" data-propertyId="03228a3536ec48ca8df7ab6044437e28"></div>
                     <script type="text/javascript" src="https://secure.ownerreservations.com/widget.js"></script>
                 </div>
                 <div class="col-md-4 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
                     <!-- OwnerRez Booking/Inquiry widget for The Beach Club A1506 -->
-                    <div class="ownerrez-widget" data-widgetId="1a74dbdd7a0141879ca83201d494f662" data-propertyId="03228a3536ec48ca8df7ab6044437e28"></div>
+                    <div class="ownerrez-widget" data-widgetId="88cb0cf664c246a78d158c2dec3a717f" data-propertyId="03228a3536ec48ca8df7ab6044437e28"></div>
                     <script type="text/javascript" src="https://secure.ownerreservations.com/widget.js"></script>
                 </div>
             </section>
