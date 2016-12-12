@@ -224,17 +224,88 @@
             </div>
             <section class="row reserveMe">
                 <h1 id="ratesReservations" style="text-align: center; margin-top: 30px;">Rates and Reservations</h1>
-                <div class="rates">
-                    <h4><strong>Winter (November - February):</strong>    $1350/week plus deposit</h4>
-                    <h4><strong>Spring (March - Mid-May):</strong>    $1550/week plus deposit</h4>
-                    <h4><strong>Early Summer (Mid-May - Mid-June):</strong>    $1850/week plus deposit</h4>
-                    <h4><strong>Summer (Mid-June - July):</strong>    $2350/week plus deposit</h4>
-                    <h4><strong>Late Summer (August):</strong>    $1850/week plus deposit</h4>
-                    <h4><strong>Fall (September - October):</strong>    $1550/week plus deposit</h4>
-                    <h4><strong>Monthly Fall:</strong>    $2750/month plus deposit</h4>
-                    <h4><strong>Monthly Winter:</strong>    $2250/month plus deposit</h4>
+                <div class="table-responsive col-xs-6 col-md-offset-3">
+                	<table class="table table-striped">
+	                	<tr>
+	                		<th>Dates:</th>
+                      <th>Minimum Stay:</th>
+                      <th>Daily:</th>
+	                		<th>Weekly Rate:</th>
+	                		<th>Monthly Rate:</th>
+	                    </tr>
+	                    <tr>
+	                    	<td>11/27/16 - 3/3/17</td>
+                        <td>3 Days</td>
+                        <td>$175</td>
+	                    	<td>$995</td>
+	                    	<td>$2985</td>
+	                    </tr>
+	                    <tr>
+	                    	<td>3/4/17 - 5/18/17</td>
+                        <td>3 Days</td>
+                        <td>$250</td>
+	                    	<td>$1550</td>
+	                    	<td>N/A</td>
+	                    </tr>
+	                    <tr>
+	                    	<td>5/19/17 - 5/21/17 (Hangout Music Fest Week)</td>
+                        <td>3 Days</td>
+                        <td>$300</td>
+	                    	<td>$1750</td>
+	                    	<td>N/A</td>
+	                    </tr>
+	                    <tr>
+	                    	<td>5/22/17 - 5/29/17 (Memorial Day Week)</td>
+                        <td>3 Days</td>
+                        <td>$425</td>
+	                    	<td>$2550</td>
+	                    	<td>N/A</td>
+	                    </tr>
+	                    <tr>
+	                    	<td>5/30/17 - 7/1/17</td>
+                        <td>7 Days</td>
+                        <td>N/A</td>
+	                    	<td>$2550</td>
+	                    	<td>N/A</td>
+	                    </tr>
+	                    <tr>
+	                    	<td>7/2/17 - 7/7/17 (Fourth of July Week)</td>
+                        <td>7 Days</td>
+                        <td>N/A</td>
+	                    	<td>$2850</td>
+	                    	<td>N/A</td>
+	                    </tr>
+	                    <tr>
+	                    	<td>7/8/17 - 8/18/17</td>
+                        <td>7 Days</td>
+                        <td>N/A</td>
+	                    	<td>$2550</td>
+	                    	<td>N/A</td>
+	                    </tr>
+	                    <tr>
+	                    	<td>8/19/17 - 10/15/17</td>
+                        <td>3 Days</td>
+                        <td>$225</td>
+	                    	<td>$1250</td>
+	                    	<td>N/A</td>
+	                    </tr>
+                      <tr>
+                        <td>10/16/17 - 11/17/17</td>
+                        <td>3 Days</td>
+                        <td>$175</td>
+                        <td>$995</td>
+                        <td>N/A</td>
+                      </tr>
+                      <tr>
+                        <td>11/18/17 - 11/26/17</td>
+                        <td>3 Days</td>
+                        <td>$225</td>
+                        <td>$1295</td>
+                        <td>N/A</td>
+                      </tr>
+	                </table>
                     <br>
-                    <h5 class="deposit">** Prices include cleaning and taxes for the period rented.  $300.00 Security/Key Deposit is refunded upon return of keys and due at time of booking.  Full amount due 30 days prior to arrival.</h5>
+                    <h5 class="rates deposit">** Rates do not include $150.00 cleaning fee and 13% tax.  A $300.00 refundable deposit by MasterCard or Visa is required to hold the booking.</h5>
                 </div>
                 <div class="col-md-6 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
                     <!-- OwnerRez Three Month Calendar widget for The Beach Club A1506 -->
