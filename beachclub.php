@@ -100,10 +100,10 @@
                     <li>3 Bedroom (1 King Bed, 1 Queen Bed, and 2 Twin Beds)</li>
                     <li>3 Full Baths and 1 Half Bath</li>
                     <li>Sleeper Sofa (Family Room)</li>
-                    <li>Full Kitchen - Granite Countertops With Upgraded Appliances, Flat Top Stove, Dishwasher, Cooking Utensils, Dishes, Microwave, Toaster, and Coffeemaker</li>
+                    <li>Fully Equipped Kitchen - Granite Countertops With Upgraded Appliances, Flat Top Stove, Dishwasher, Cooking Utensils, Dishes, Microwave, Toaster, and Coffeemaker</li>
                     <li>Washer/Dryer - Linens and Towels Provided</li>
                     <li>Air Conditioning</li>
-                    <li>TV (4), Cable, Internet Access, DVD w/ Surround Sound, VCR, Phone</li>
+                    <li>(4)-Flat Panel HDTV's, Cable, Internet Access, DVD w/ Surround Sound, VCR, Phone</li>
                     <li>Balcony - Lanai, Gas BBQ Grill</li>
                     <li>Heated Pools (4), Inside Pool (1), Outside Shower</li>
                     <li>Abundant Parking</li>
@@ -126,8 +126,9 @@
                     <h2>The Clubhouse</h2>
                     <p>The Clubhouse is an on-site 'Country Club Style' clubhouse that includes many amenities you will enjoy without ever leaving the complex.  It sports many poolside activities including favorites
                       such as karoke, dive-in movies, and poolside crafts.  The Clubhouse has a year round indoor pool great for exercise and play.  It also has a gorgeous outdoor pool with poolside service offering a wide variety
-                      of food and drink. Private cabanas are avaliable for rent upon request, as well.  There is also a children's pool, great for toddlers and babies alike!  If fitness is what you are after, The Clubhouse has a great fitness center with
-                      machines and free weights, as well as fitness classes in the morning.  Grab your kids and head to The Clubhouse Arcade which includes games such as air hockey, foosball, and three Xbox 360s. The best part is...the games are complimentary for all guests!  </p>
+                      of food and drink. Private cabanas are available for rent upon request, as well.  There is also a children's pool, great for toddlers and babies alike!  If fitness is what you are after, The Clubhouse has a great fitness center with
+                      machines and free weights, as well as fitness classes in the morning.  Grab your kids and head to The Clubhouse Arcade which includes games such as air hockey, foosball, and three Xbox 360s.
+                      **Daily Fee payable on-site for use of The Clubhouse facilities</p>
                 </div>
                 <div class="clearfix"></div>
                 <div class="activity-element col-md-4">
@@ -138,7 +139,7 @@
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/shopping_01_FIXED.jpg"/>
                     <h2>Shopping</h2>
-                    <p>If shopping is your thing, Gulf Shores has plenty of great places to fit your taste.  <a href="http://www.sanroccay.com/" target="_blank">SanRoc Cay</a> is home to some unique courtyard events, shopping, dining, and everything in-between.  There are many shops and boutiques here that taylor to your style.  <a href="http://www.alwharf.com/" target="_blank">The Wharf of Orange Beach</a> is a family entertainment district with plenty of shopping.  Everything from electronics to clothing, The Wharf has it all!  Looking for a great outlet center, <a href="http://www.tangeroutlet.com/" target="_blank">Tanger Outlets</a> is just the place!  The bargin hunter's paradise, Tanger Outlets features brand-name merchandise from Banana Republic, Eddie Bauer, and The Gap!   </p>
+                    <p>If shopping is your thing, Gulf Shores has plenty of great places to fit your taste.  <a href="http://www.sanroccay.com/" target="_blank">SanRoc Cay</a> is home to some unique courtyard events, shopping, dining, and everything in-between.  There are many shops and boutiques here that taylor to your style.  <a href="http://www.alwharf.com/" target="_blank">The Wharf of Orange Beach</a> is a family entertainment district with plenty of shopping.  Everything from electronics to clothing, The Wharf has it all!  Looking for a great outlet center, <a href="http://www.tangeroutlet.com/" target="_blank">Tanger Outlets</a> is just the place!  The bargain hunter's paradise, Tanger Outlets features brand-name merchandise from Banana Republic, Eddie Bauer, and The Gap!   </p>
                 </div>
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/golf_01_FIXED.jpg"/>
